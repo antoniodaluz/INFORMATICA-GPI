@@ -1,6 +1,6 @@
 # Análise de custo e lucro  em uma empresa
 
-<h1 style="font-size: 24px;">SUMÁRIO</h1>
+<h1 style="font-size: 24px;">Sumário</h1>
 
 
 - [Introdução](#introdução)
