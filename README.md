@@ -4,7 +4,7 @@
 
 
 - [Introdução](#introdução)
-- [Instalação](#imagens)
+- [Imagens](#imagens)
 - [Utilização](#Gráficos)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
