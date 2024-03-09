@@ -1,4 +1,7 @@
-style="font-size: 24px;">Título Principal</h1>
+<h1 **#SUMÁRIO**: 24px;">Título Principal</h1>
+
+<p style="font-size: 18px;">Este é um parágrafo com um tamanho de fonte maior.</p>
+
 **#SUMÁRIO**
 ##[INTRODUÇÃO]
 
