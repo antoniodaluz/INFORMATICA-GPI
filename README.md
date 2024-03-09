@@ -4,8 +4,8 @@
 
 
 - [Introdução](#introdução)
-- [Instalação](#instalação)
-- [Utilização](#utilização)
+- [Instalação](#imagens)
+- [Utilização](#Gráficos)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
