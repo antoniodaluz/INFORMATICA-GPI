@@ -1,4 +1,4 @@
-<h1 style="font-size: 24px;">**#SUMÁRIO**</h1>
+<h1 style="font-size: 24px;">SUMÁRIO</h1>
 
 <p style="font-size: 18px;">Este é um parágrafo com um tamanho de fonte maior.</p>
 
