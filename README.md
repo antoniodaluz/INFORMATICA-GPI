@@ -1,6 +1,6 @@
 # Análise de custo e lucro  em uma empresa
-(![Uploading Animação.gif…]()
-)
+(C:\Users\Antonio\Desktop\Animação.gif)
+
 
 <h1 style="font-size: 28px;">Sumário</h1>
 
