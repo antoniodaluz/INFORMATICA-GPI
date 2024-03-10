@@ -3,7 +3,7 @@
 <h1 style="font-size: 28px;">Sumário</h1>
 
 - [Introdução](#introdução)
-- [Imagens](#imagens)
+- [Objetivo](#Objetivo)
 - [Utilização](#Gráficos)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
