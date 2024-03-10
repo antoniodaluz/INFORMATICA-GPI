@@ -9,14 +9,12 @@
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - 
-#objetivo
-## Introdução
 
- Os custos fixos referem-se às despesas que permanecem constantes, independentemente do volume de produção ou vendas da empresa. Exemplos incluem aluguel, salários de funcionários administrativos e despesas com seguros. Esses custos representam uma despesa previsível para a empresa, pois não mudam com o nível de atividade. No entanto, é importante notar que, à medida que as vendas aumentam, a proporção dos custos fixos em relação ao lucro diminui. Por outro lado, se as vendas diminuem, os custos fixos podem representar uma parcela maior da receita, impactando negativamente o lucro.  Com tudo  analisando os dados através de  dashboard é possível tomar decisões futuras e também verificar a situação da empresa mensal.</p>
+## Objetivo
 
+A análise de custo  e lucro tem como ojetivo identificar Custos,Avaliar o lucro,Precificação de Produtos e Serviços,Controle de Custos, e Avaliar a Rentabilidade. A análise de custo e lucro é essencial porque fornece insights críticos sobre a saúde financeira de uma empresa e apoia a tomada de decisões estratégicas que impulsionam o crescimento e o sucesso a longo prazo.
 
-## Instalação
-
+## InstalaçãoApoiar Decisões Estratégicas:
 Nesta seção, você pode fornecer instruções sobre como instalar seu projeto.
 
 ## Utilização
