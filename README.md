@@ -1,5 +1,6 @@
-
+![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/66410435-39c8-4694-aa83-740fc1f19ee2)
 ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/158638a6-dcff-4e27-a195-40a2d55e2e2d)
+
 
 <h1 style="font-size: 28px;">Sumário</h1>
 
