@@ -1,4 +1,4 @@
-![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/66410435-39c8-4694-aa83-740fc1f19ee2)
+
 ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/158638a6-dcff-4e27-a195-40a2d55e2e2d)
 
 
@@ -16,6 +16,6 @@
 - A análise de custo  e lucro tem como ojetivo identificar Custos,Avaliar o lucro,Precificação de Produtos e Serviços,Controle de Custos, e Avaliar a Rentabilidade. A análise de custo e lucro é essencial porque fornece insights críticos sobre a saúde financeira de uma empresa e apoia a tomada de decisões estratégicas que impulsionam o crescimento e o sucesso a longo prazo.
   
  ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/6377c5d4-baf1-4557-b479-6bda9a1e854e)
-
+![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/66410435-39c8-4694-aa83-740fc1f19ee2)
 
 
