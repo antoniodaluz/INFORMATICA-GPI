@@ -14,5 +14,5 @@
 # Objetivo
 - A análise de custo  e lucro tem como ojetivo identificar Custos,Avaliar o lucro,Precificação de Produtos e Serviços,Controle de Custos, e Avaliar a Rentabilidade. A análise de custo e lucro é essencial porque fornece insights críticos sobre a saúde financeira de uma empresa e apoia a tomada de decisões estratégicas que impulsionam o crescimento e o sucesso a longo prazo.
 
-[Assista ao vídeo de demonstração]((https://github.com/antoniodaluz/INFORMATICA-GPI/"C:\Users\Antonio\Downloads\Grafico.mp4")
+[Assista ao vídeo de demonstração](https://github.com/antoniodaluz/INFORMATICA-GPI/"C:\Users\Antonio\Downloads\Grafico.mp4")
 
