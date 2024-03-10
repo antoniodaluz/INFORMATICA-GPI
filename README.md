@@ -1,6 +1,6 @@
 
-![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/158638a6-dcff-4e27-a195-40a2d55e2e2d)# 
-Análise de custo e lucro  em uma empresa
+![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/158638a6-dcff-4e27-a195-40a2d55e2e2d)
+# Análise de custo e lucro  em uma empresa
 
 
 
