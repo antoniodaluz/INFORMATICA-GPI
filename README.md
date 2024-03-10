@@ -1,5 +1,5 @@
 # Análise de custo e lucro  em uma empresa
-![Texto Alternativo](![Uploading Animação.gif…]()
+![](![Uploading Animação.gif…]()
 )
 
 
