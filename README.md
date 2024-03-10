@@ -1,5 +1,5 @@
 # Análise de custo e lucro  em uma empresa
-![Descrição da Imagem](![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/67743559-bb85-44fb-ae13-0fd237d56d49)
+![(![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/67743559-bb85-44fb-ae13-0fd237d56d49)
 )
 <h1 style="font-size: 28px;">Sumário</h1>
 
