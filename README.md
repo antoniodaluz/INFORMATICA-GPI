@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 
 # Produção de automóveis, caminhões e ônibus no brasil 
 
-- A produção de carros, caminhões e ônibus desempenha um papel crucial na economia de muitos países, incluindo o Brasil. Esses veículos não só facilitam o transporte de pessoas e mercadorias, mas também representam uma parte significativa da indústria manufatureira e contribuem para o crescimento econômico e o emprego.
+-A produção de carros, caminhões e ônibus desempenha um papel crucial na economia de muitos países, incluindo o Brasil. Esses veículos não só facilitam o transporte de pessoas e mercadorias, mas também representam uma parte significativa da indústria manufatureira e contribuem para o crescimento econômico e o emprego.
 
 No Brasil, a produção de veículos é uma indústria importante e diversificada, com várias montadoras estabelecidas em todo o país. A fabricação de carros, caminhões e ônibus envolve uma cadeia complexa de fornecedores, fabricantes de peças, montadoras e distribuidores, criando empregos em diversas áreas, desde a produção até a logística e o marketing.
 
