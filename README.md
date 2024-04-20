@@ -31,5 +31,15 @@ Os caminhões desempenham um papel fundamental na infraestrutura e no transporte
 Os ônibus são essenciais para o transporte público e escolar em todo o Brasil. A produção de ônibus é influenciada pela demanda por transporte coletivo, investimentos em infraestrutura urbana e políticas de transporte público. Nos últimos anos, tem havido um foco crescente na sustentabilidade e na eficiência energética dos ônibus, levando ao desenvolvimento de ônibus elétricos e a gás, além de avanços em tecnologias de transporte inteligente.
 
 Em resumo, a produção de carros, caminhões e ônibus desempenha um papel vital na economia brasileira, criando empregos, impulsionando a inovação e facilitando o transporte de pessoas e mercadorias em todo o país.
+
+# Gráficos
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/c3176623-691c-4eb0-8d15-e9072c821545)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/3a8f24c3-749b-44b9-b20d-846aeb74844f)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/98b447ae-29e4-4a39-a546-88920f501ff3)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/d59e51e3-ca2d-4e46-bbdc-715d8786c6ff)
+
+
 
