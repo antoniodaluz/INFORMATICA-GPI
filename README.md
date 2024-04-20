@@ -21,12 +21,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 # Produção de automóveis, caminhões e ônibus no brasil 
 
 -  A produção de carros, caminhões e ônibus desempenha um papel crucial na economia de muitos países, incluindo o Brasil. Esses veículos não só facilitam o transporte de pessoas e mercadorias, mas também representam uma parte significativa da indústria manufatureira e contribuem para o crescimento econômico e o emprego.
-No Brasil, a produção de veículos é uma indústria importante e diversificada, com várias montadoras estabelecidas em todo o país. A fabricação de carros, caminhões e ônibus envolve uma cadeia complexa de fornecedores, fabricantes de peças, montadoras e distribuidores, criando empregos em diversas áreas, desde a produção até a logística e o marketing.
-A produção de carros no Brasil é influenciada por uma série de fatores, incluindo a demanda do mercado interno e externo, políticas governamentais, condições econômicas e avanços tecnológicos. Nos últimos anos, tem havido um aumento no interesse por veículos elétricos e híbridos, impulsionando a inovação e o investimento em novas tecnologias na indústria automobilística brasileira.
-Os caminhões desempenham um papel fundamental na infraestrutura e no transporte de carga no Brasil. A produção de caminhões é influenciada pela atividade econômica, demanda por transporte de mercadorias e investimentos em infraestrutura. Além disso, políticas governamentais, como regulamentações de emissões e incentivos fiscais, também podem impactar a produção e o mercado de caminhões.
-Os ônibus são essenciais para o transporte público e escolar em todo o Brasil. A produção de ônibus é influenciada pela demanda por transporte coletivo, investimentos em infraestrutura urbana e políticas de transporte público. Nos últimos anos, tem havido um foco crescente na sustentabilidade e na eficiência energética dos ônibus, levando ao desenvolvimento de ônibus elétricos e a gás, além de avanços em tecnologias de transporte inteligente.
+   
+- No Brasil, a produção de veículos é uma indústria importante e diversificada, com várias montadoras estabelecidas em todo o país. A fabricação de carros, caminhões e ônibus envolve uma cadeia complexa de fornecedores, fabricantes de peças, montadoras e distribuidores, criando empregos em diversas áreas, desde a produção até a logística e o marketing.
 
-Em resumo, a produção de carros, caminhões e ônibus desempenha um papel vital na economia brasileira, criando empregos, impulsionando a inovação e facilitando o transporte de pessoas e mercadorias em todo o país.
+- A produção de carros no Brasil é influenciada por uma série de fatores, incluindo a demanda do mercado interno e externo, políticas governamentais, condições econômicas e avanços tecnológicos. Nos últimos anos, tem havido um aumento no interesse por veículos elétricos e híbridos, impulsionando a inovação e o investimento em novas tecnologias na indústria automobilística brasileira.
+
+- Os caminhões desempenham um papel fundamental na infraestrutura e no transporte de carga no Brasil. A produção de caminhões é influenciada pela atividade econômica, demanda por transporte de mercadorias e investimentos em infraestrutura. Além disso, políticas governamentais, como regulamentações de emissões e incentivos fiscais, também podem impactar a produção e o mercado de caminhões.
+
+- Os ônibus são essenciais para o transporte público e escolar em todo o Brasil. A produção de ônibus é influenciada pela demanda por transporte coletivo, investimentos em infraestrutura urbana e políticas de transporte público. Nos últimos anos, tem havido um foco crescente na sustentabilidade e na eficiência energética dos ônibus, levando ao desenvolvimento de ônibus elétricos e a gás, além de avanços em tecnologias de transporte inteligente.
+
+- Em resumo, a produção de carros, caminhões e ônibus desempenha um papel vital na economia brasileira, criando empregos, impulsionando a inovação e facilitando o transporte de pessoas e mercadorias em todo o país.
 
 # Gráficos
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/c3176623-691c-4eb0-8d15-e9072c821545)
