@@ -39,7 +39,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/98b447ae-29e4-4a39-a546-88920f501ff3)
 
-![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/d59e51e3-ca2d-4e46-bbdc-715d8786c6ff)
-
-
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/a3097677-9286-471c-8741-e188c898bf1d)
 
