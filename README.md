@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 - Os ônibus são essenciais para o transporte público e escolar em todo o Brasil. A produção de ônibus é influenciada pela demanda por transporte coletivo, investimentos em infraestrutura urbana e políticas de transporte público. Nos últimos anos, tem havido um foco crescente na sustentabilidade e na eficiência energética dos ônibus, levando ao desenvolvimento de ônibus elétricos e a gás, além de avanços em tecnologias de transporte inteligente.
 
 - Em resumo, a produção de carros, caminhões e ônibus desempenha um papel vital na economia brasileira, criando empregos, impulsionando a inovação e facilitando o transporte de pessoas e mercadorias em todo o país.
-git commit -m "Adicionando nova funcionalidade ✨"
+ 
 # Gráficos
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/c3176623-691c-4eb0-8d15-e9072c821545)
 
