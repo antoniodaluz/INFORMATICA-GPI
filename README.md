@@ -42,6 +42,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/a3097677-9286-471c-8741-e188c898bf1d)
 
 # Gráfico de custo de produção 
-![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/ea898118-b823-4e03-9519-b0a8384f19e7)![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/2a89d356-2405-4aa3-9344-52f3d345bcb1)
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/ea898118-b823-4e03-9519-b0a8384f19e7)
+# tabelas de produtos A e B
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b5361604-20ae-4b57-9381-70022b4707ef)
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/62662de5-4fc5-47a8-b5d1-cf4051de37d7)
+
 
 
