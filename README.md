@@ -41,3 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/a3097677-9286-471c-8741-e188c898bf1d)
 
+# Gráfico de custo de produção 
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/ea898118-b823-4e03-9519-b0a8384f19e7)
+
