@@ -45,6 +45,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/ea898118-b823-4e03-9519-b0a8384f19e7)
 # tabelas de produtos A e B
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b5361604-20ae-4b57-9381-70022b4707ef)
-![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/933293c4-8f57-480a-8646-c1aba59e8a22)
-
-
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/fd050a79-b102-4c0f-8ba6-934cdce637d8)
