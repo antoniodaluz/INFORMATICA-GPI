@@ -53,7 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 - Power Apps é uma suíte de aplicativos, serviços, conectores e uma plataforma de dados que fornece um ambiente de desenvolvimento rápido para criar aplicativos personalizados para suas necessidades empresariais. Aqui estão alguns dos recursos e componentes principais do Power Apps:
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/77bc2dc1-ba7e-46e2-9683-6ed2d58466e5)
-
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/05e8cd90-9316-4d39-94ee-15f78e11425d)
 
 
