@@ -49,7 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b5361604-20ae-4b57-9381-70022b4707ef)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/fd050a79-b102-4c0f-8ba6-934cdce637d8)
 # Power APPS 
+
 - Power Apps é uma suíte de aplicativos, serviços, conectores e uma plataforma de dados que fornece um ambiente de desenvolvimento rápido para criar aplicativos personalizados para suas necessidades empresariais. Aqui estão alguns dos recursos e componentes principais do Power Apps:
+- 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/f3128a4c-6c6e-47bc-9ccd-de8b7846cc89)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/5a96209d-1652-4bbb-9207-aaaf525b44a4)
 
