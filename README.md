@@ -17,6 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
  ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/6377c5d4-baf1-4557-b479-6bda9a1e854e)
 ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/66410435-39c8-4694-aa83-740fc1f19ee2)
 
+# Horário de Aulas
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/bab047dc-96df-4e01-87a2-fc361cf55ac3)
 
 # Produção de automóveis, caminhões e ônibus no brasil 
 
