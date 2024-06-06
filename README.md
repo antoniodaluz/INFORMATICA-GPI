@@ -109,7 +109,7 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 
 | Sprint            | Status     | Histórico                                                                                                       |
 |-------------------|------------|-----------------------------------------------------------------------------------------------------------------|
-| Kick Off          | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) |
+| Kick Off          | concluído  | [Ver Relatório]( https://github.com/user-attachments/files/15540377/trabalho.informatica.xlsx) |
 | 01                | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) |
 | 02                | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) |
 | 03                | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) |
