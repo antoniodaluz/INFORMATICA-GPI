@@ -113,3 +113,9 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/83acb680-8f9c-4d2b-94f7-1db4103bbef8)
 
+
+Durante este semestre  na Fatec, tive a oportunidade de aprimorar uma variedade de habilidades valiosas relacionadas à informática. As aulas oferecidas neste campo foram fundamentais para o meu crescimento pessoal e profissional, proporcionando-me um conjunto de habilidades técnicas e práticas essenciais para o mercado de trabalho atual.
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/0ddc7381-1d2b-41cb-a835-ba5b7dd25025)
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/0ddc7381-1d2b-41cb-a835-ba5b7dd25025)
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/0ddc7381-1d2b-41cb-a835-ba5b7dd25025)
