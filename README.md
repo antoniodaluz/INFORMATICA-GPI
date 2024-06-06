@@ -16,8 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 # Gráficos
  ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/6377c5d4-baf1-4557-b479-6bda9a1e854e)
 ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/66410435-39c8-4694-aa83-740fc1f19ee2)
-## clique para baixar  arquivo    https://github.com/user-attachments/files/15540377/trabalho.informatica.xlsx
-| Kick Off          | concluído  | [Ver Relatório]( https://github.com/user-attachments/files/15540377/trabalho.informatica.xlsx) |
+
+[clique para baixar  arquivo] (https://github.com/user-attachments/files/15540377/trabalho.informatica.xlsx).
+
 # Horários de Aulas
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/bab047dc-96df-4e01-87a2-fc361cf55ac3)
 
@@ -107,11 +108,3 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/83acb680-8f9c-4d2b-94f7-1db4103bbef8)
 
-| Sprint            | Status     | Histórico                                                                                                       |
-|-------------------|------------|-----------------------------------------------------------------------------------------------------------------|
-| Kick Off          | concluído  | [Ver Relatório]( https://github.com/user-attachments/files/15540377/trabalho.informatica.xlsx) |
-| 01                | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) |
-| 02                | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) |
-| 03                | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) |
-| 04                | cancelada  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%204/documento/C%C3%B3pia%20de%20A.pptx) |
-| Feira de Soluções | concluído  | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI)                                         |
