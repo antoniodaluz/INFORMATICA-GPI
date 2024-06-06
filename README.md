@@ -66,7 +66,39 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/3f4810cf-207e-486b-b267-8f90e7fb7e9e)
 
  # power Automate 
+ower Automate é uma plataforma da Microsoft para automação de processos e fluxos de trabalho. Anteriormente conhecido como Microsoft Flow, permite a criação de fluxos automatizados entre aplicativos e serviços para sincronizar arquivos, obter notificações, coletar dados e realizar tarefas repetitivas.
 
+Principais Características:
+Automatização de Fluxos de Trabalho:
+
+Simplificação de tarefas repetitivas como envio de e-mails, coleta de dados e atualização de bancos de dados.
+Integração com Diversos Serviços:
+
+Compatibilidade com Microsoft 365, Dynamics 365, SharePoint, OneDrive, Outlook, entre outros.
+Tipos de Fluxos:
+
+Automatizados da Nuvem: Executados com base em eventos específicos.
+Instantâneos: Iniciados manualmente.
+Agendados: Executados em horários específicos.
+Desktop (UI Flows): Automatizam tarefas em aplicativos de desktop.
+Interface Intuitiva:
+
+Interface de arrastar e soltar, acessível para usuários sem conhecimentos técnicos avançados.
+Condições e Ramificações:
+
+Permite criar fluxos dinâmicos que tomam decisões com base em critérios específicos.
+Segurança e Conformidade:
+
+Controle de acesso baseado em função e logs detalhados de atividades.
+Exemplos de Uso:
+Automatização de Aprovações: Envio automático de solicitações de aprovação.
+Notificações de E-mail: Envio de notificações por e-mail com base em eventos.
+Sincronização de Dados: Transferência de dados entre diferentes sistemas.
+Benefícios:
+Aumento da Produtividade: Libera tempo para atividades de maior valor.
+Redução de Erros: Minimiza erros humanos.
+Integração de Sistemas: Melhora a eficiência operacional através da integração de sistemas e serviços.
+Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam melhorar eficiência e produtividade por meio da automação de processos e integração de sistemas.
   ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/2366a86b-9fe1-49c3-ad11-89095f627756)
   
   ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/f930f381-1d5d-4230-8793-35212d0fe436)
