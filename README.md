@@ -1,3 +1,11 @@
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/e931823f-41d8-4ed9-9e93-ab023e89c05c)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/078ee6df-85ba-4067-b931-019b0b1855dc)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/f9ed3b41-4e91-4340-88db-4099b4e408cc)
+
+
+[VER POWER POINT](https://github.com/antoniodaluz/INFORMATICA-GPI/commit/6785cc85f0f9165b92d56c282ce9a97e51081b30)
 
 ![Animação](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/158638a6-dcff-4e27-a195-40a2d55e2e2d)
 
