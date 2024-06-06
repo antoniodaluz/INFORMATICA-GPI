@@ -61,10 +61,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b54a4949-2200-46ec-a285-6df2ec58d064)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/1a6f9270-99ea-4bd1-b432-7c77ddfe2801)
 
-
 # Power BI
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/12d8b627-42fd-4aec-902c-e3e999e9468e)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/3f4810cf-207e-486b-b267-8f90e7fb7e9e)
 
+ # power Automate 
 
+  ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/2366a86b-9fe1-49c3-ad11-89095f627756)
+  
+  ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/f930f381-1d5d-4230-8793-35212d0fe436)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b8bc92f1-7644-4121-b4d5-cf5190754347)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/83acb680-8f9c-4d2b-94f7-1db4103bbef8)
 
