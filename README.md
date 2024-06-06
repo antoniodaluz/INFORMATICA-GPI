@@ -107,11 +107,11 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/83acb680-8f9c-4d2b-94f7-1db4103bbef8)
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 30/08/2023 | concluído| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) | 
-|01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
-|02|  25/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
-|03| 29/11/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
-|04| 06/12/2023 | cancelada |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%204/documento/C%C3%B3pia%20de%20A.pptx) | 
-|Feira de Soluções| 12/11/2023 |concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI) | 
+Sprint	Status	Histórico
+Kick Off	concluído	Ver Relatório
+01	concluído	Ver Relatório
+02	concluído	Ver Relatório
+03	concluído	Ver Relatório
+04	cancelada	Ver Relatório
+Feira de Soluções	concluído	Ver Relatório
+
