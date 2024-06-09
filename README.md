@@ -82,9 +82,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 [clique para baixar arquivo](https://github.com/antoniodaluz/INFORMATICA-GPI/raw/main/power%20bi%20prova.pbix%20posta.pbix)
 
 
-![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/87a697f6-9995-48e4-be1d-12e245985044)
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/ca4ed5c7-5f94-48f0-8bde-6bb56f27f0c4)
+
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/80dd9a9c-32db-469e-8529-268dd62ea762)
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/4d2bef02-7343-48f9-ac38-32513a30fd78)
+
 https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/0c788f28-8ba0-4b94-adf9-05e25b064ba2?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=106d729e-b26d-4ce0-a25c-8e443d6debd5&sourcetime=1717893381188
+
 
  # power Automate 
 ower Automate é uma plataforma da Microsoft para automação de processos e fluxos de trabalho. Anteriormente conhecido como Microsoft Flow, permite a criação de fluxos automatizados entre aplicativos e serviços para sincronizar arquivos, obter notificações, coletar dados e realizar tarefas repetitivas.
