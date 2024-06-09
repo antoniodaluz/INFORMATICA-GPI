@@ -74,12 +74,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/77bc2dc1-ba7e-46e2-9683-6ed2d58466e5)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b54a4949-2200-46ec-a285-6df2ec58d064)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/1a6f9270-99ea-4bd1-b432-7c77ddfe2801)
+
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/80dd9a9c-32db-469e-8529-268dd62ea762)
-
-![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/4d2bef02-7343-48f9-ac38-32513a30fd78)
-
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/d9d56431-cc8c-41e6-b71a-7f58d84087a4)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/037a2c2b-da58-47ea-a656-27fac59f3a0c)
-
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/4d2bef02-7343-48f9-ac38-32513a30fd78)
 [VER APLICATIVO POWER APPS](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/0c788f28-8ba0-4b94-adf9-05e25b064ba2?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=106d729e-b26d-4ce0-a25c-8e443d6debd5&sourcetime=1717894230540)
 # Power BI
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/12d8b627-42fd-4aec-902c-e3e999e9468e)
