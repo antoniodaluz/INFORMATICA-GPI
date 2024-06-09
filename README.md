@@ -80,8 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/037a2c2b-da58-47ea-a656-27fac59f3a0c)
 
-[VER APLICATIVO POWER APPS](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/0c788f28-8ba0-4b94-adf9-05e25b064ba2?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=106d729e-b26d-4ce0-a25c-8e443d6debd5&sourcetime=1717893381188)
-
+[VER APLICATIVO POWER APPS](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/0c788f28-8ba0-4b94-adf9-05e25b064ba2?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=106d729e-b26d-4ce0-a25c-8e443d6debd5&sourcetime=1717894230540)
 # Power BI
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/12d8b627-42fd-4aec-902c-e3e999e9468e)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/3f4810cf-207e-486b-b267-8f90e7fb7e9e)
