@@ -133,6 +133,8 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/b8bc92f1-7644-4121-b4d5-cf5190754347)
 
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/c60b9d31-1540-4232-9157-34143b8ca17b)
+
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/83acb680-8f9c-4d2b-94f7-1db4103bbef8)
 
 
