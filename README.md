@@ -1,9 +1,12 @@
-# POWER POINT
+# Durante o semestre, foram realizados diversos projetos utilizando ferramentas da Microsoft
+
+![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/50dc2610-7ace-4297-aafa-2c80ec944c67)
+
+
+# Power point
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/e931823f-41d8-4ed9-9e93-ab023e89c05c)
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/078ee6df-85ba-4067-b931-019b0b1855dc)
-
-![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/f9ed3b41-4e91-4340-88db-4099b4e408cc)
 
 
 [VER APRESENTAÇÃO COMPLETA](https://github.com/antoniodaluz/INFORMATICA-GPI/blob/main/apresenta%C3%A7ao%20informatica%20-%20Copiar.pdf)
@@ -131,6 +134,9 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/83acb680-8f9c-4d2b-94f7-1db4103bbef8)
 
 
-Durante este semestre  na Fatec, tive a oportunidade de aprimorar uma variedade de habilidades valiosas relacionadas à informática. As aulas oferecidas neste campo foram fundamentais para o meu crescimento pessoal e profissional, proporcionando-me um conjunto de habilidades técnicas e práticas essenciais para o mercado de trabalho atual.
+# Conclusão
+
+A utilização dessas ferramentas da Microsoft ao longo do semestre permitiu o desenvolvimento de soluções eficientes e inovadoras para diferentes necessidades, promovendo habilidades em análise de dados, automação e comunicação visual. Esses projetos demonstram a aplicabilidade prática das ferramentas e a capacidade de solucionar problemas complexos através de tecnologias avançadas.
+
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/0ddc7381-1d2b-41cb-a835-ba5b7dd25025)
