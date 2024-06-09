@@ -86,6 +86,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/037a2c2b-da58-47ea-a656-27fac59f3a0c)
 
 # Power BI
+
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/12d8b627-42fd-4aec-902c-e3e999e9468e)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/3f4810cf-207e-486b-b267-8f90e7fb7e9e)
 
