@@ -1,7 +1,6 @@
 # Durante o semestre, foram realizados diversos projetos utilizando ferramentas da Microsoft
 div style="text-align: center;">
-  <img src="https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/50dc2610-7ace-4297-aafa-2c80ec944c67" alt="Descrição da imagem" width="600"/>
-</div>
+  <img src="https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/50dc2610-7ace-4297-aafa-2c80ec944c67" alt="Descrição da imagem" width="400"/> </div>
 
 
 
