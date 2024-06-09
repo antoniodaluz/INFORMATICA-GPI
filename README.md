@@ -60,6 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend vestibulum
 
 [clique para baixar arquivo](https://github.com/antoniodaluz/INFORMATICA-GPI/raw/main/power%20BI%20PRODU%C3%87OES%20DE%20CARROS.pbix)
 
+[VER APRESENTAÇÃO COMPLETA](https://app.powerbi.com/groups/me/reports/f545ef1c-6c51-418d-a8c5-c450ca0a9a34/ReportSection?experience=power-bi&fromRedirect=true)
+
 # Gráfico de custo de produção 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/ea898118-b823-4e03-9519-b0a8384f19e7)
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/6677bd2b-37d2-4f41-a30f-66fc59755e3b)
