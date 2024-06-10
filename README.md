@@ -140,7 +140,7 @@ Resumo: O Power Automate é uma ferramenta poderosa para empresas que buscam mel
 
 # Conclusão
 
-A utilização dessas ferramentas da Microsoft ao longo do semestre permitiu o desenvolvimento de soluções eficientes e inovadoras para diferentes necessidades, promovendo habilidades em análise de dados, automação e comunicação visual. Esses projetos demonstram a aplicabilidade prática das ferramentas e a capacidade de solucionar problemas complexos através de tecnologias avançadas.
+A utilização dessas ferramentas da Microsoft ao longo do semestre permitiu o desenvolvimento de soluções eficientes para diferentes necessidades, promovendo habilidades em análise de dados, automação e comunicação visual. Esses projetos demonstram a aplicabilidade prática das ferramentas e a capacidade de solucionar problemas complexos através de tecnologias.
 
 
 ![image](https://github.com/antoniodaluz/INFORMATICA-GPI/assets/127999546/0ddc7381-1d2b-41cb-a835-ba5b7dd25025)
